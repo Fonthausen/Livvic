@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01EB" format="1">
+  <advance width="569"/>
+  <unicode hex="01EB"/>
+  <outline>
+    <contour>
+      <point x="391" y="20" type="curve"/>
+      <point x="465" y="61"/>
+      <point x="517" y="148"/>
+      <point x="517" y="259" type="curve"/>
+      <point x="517" y="412"/>
+      <point x="432" y="507"/>
+      <point x="293" y="507" type="curve"/>
+      <point x="147" y="507"/>
+      <point x="52" y="392"/>
+      <point x="52" y="240" type="curve"/>
+      <point x="52" y="87"/>
+      <point x="137" y="-8"/>
+      <point x="279" y="-8" type="curve"/>
+      <point x="300" y="-8" type="line"/>
+      <point x="294" y="10" type="line"/>
+      <point x="229" y="-21"/>
+      <point x="190" y="-73"/>
+      <point x="190" y="-126" type="curve"/>
+      <point x="190" y="-184"/>
+      <point x="233" y="-223"/>
+      <point x="305" y="-223" type="curve"/>
+      <point x="344" y="-223"/>
+      <point x="383" y="-203"/>
+      <point x="403" y="-173" type="curve"/>
+      <point x="373" y="-132" type="line"/>
+      <point x="352" y="-158"/>
+      <point x="332" y="-170"/>
+      <point x="310" y="-170" type="curve"/>
+      <point x="276" y="-170"/>
+      <point x="257" y="-150"/>
+      <point x="257" y="-118" type="curve"/>
+      <point x="257" y="-74"/>
+      <point x="294" y="-33"/>
+    </contour>
+    <contour>
+      <point x="133" y="240" type="curve"/>
+      <point x="133" y="356"/>
+      <point x="196" y="436"/>
+      <point x="294" y="436" type="curve"/>
+      <point x="382" y="436"/>
+      <point x="436" y="373"/>
+      <point x="436" y="259" type="curve"/>
+      <point x="436" y="142"/>
+      <point x="373" y="63"/>
+      <point x="279" y="63" type="curve"/>
+      <point x="187" y="63"/>
+      <point x="133" y="126"/>
+    </contour>
+    <contour>
+      <point x="285" y="498" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 12:18:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

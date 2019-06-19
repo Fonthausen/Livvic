@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BC" format="1">
+  <advance width="191"/>
+  <outline>
+    <contour>
+      <point x="21" y="155" type="curve"/>
+      <point x="78" y="155" type="line"/>
+      <point x="132" y="201"/>
+      <point x="174" y="275"/>
+      <point x="174" y="322" type="curve"/>
+      <point x="174" y="370"/>
+      <point x="145" y="397"/>
+      <point x="98" y="397" type="curve"/>
+      <point x="52" y="397"/>
+      <point x="22" y="370"/>
+      <point x="22" y="330" type="curve"/>
+      <point x="22" y="299"/>
+      <point x="47" y="284"/>
+      <point x="47" y="243" type="curve"/>
+      <point x="47" y="219"/>
+      <point x="38" y="191"/>
+    </contour>
+  </outline>
+</glyph>

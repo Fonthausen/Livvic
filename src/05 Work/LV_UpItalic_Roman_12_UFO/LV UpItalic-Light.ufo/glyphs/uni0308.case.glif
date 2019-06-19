@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308.case" format="1">
+  <advance width="670"/>
+  <note>
+    uni0308
+  </note>
+  <outline>
+    <contour>
+      <point x="247" y="780" type="curve"/>
+      <point x="277" y="780"/>
+      <point x="296" y="802"/>
+      <point x="296" y="828" type="curve"/>
+      <point x="296" y="854"/>
+      <point x="277" y="876"/>
+      <point x="247" y="876" type="curve"/>
+      <point x="215" y="876"/>
+      <point x="196" y="854"/>
+      <point x="196" y="828" type="curve"/>
+      <point x="196" y="802"/>
+      <point x="215" y="780"/>
+    </contour>
+    <contour>
+      <point x="421" y="780" type="curve"/>
+      <point x="451" y="780"/>
+      <point x="470" y="802"/>
+      <point x="470" y="828" type="curve"/>
+      <point x="470" y="854"/>
+      <point x="451" y="876"/>
+      <point x="421" y="876" type="curve"/>
+      <point x="389" y="876"/>
+      <point x="370" y="854"/>
+      <point x="370" y="828" type="curve"/>
+      <point x="370" y="802"/>
+      <point x="389" y="780"/>
+    </contour>
+    <contour>
+      <point x="335" y="710" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="335" y="939" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-08 16:17:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

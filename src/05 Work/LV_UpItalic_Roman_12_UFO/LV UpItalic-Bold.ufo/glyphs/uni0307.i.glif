@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0307.i" format="1">
+  <advance width="654"/>
+  <note>
+    uni0307
+  </note>
+  <outline>
+    <contour>
+      <point x="327" y="573" type="curve"/>
+      <point x="386" y="573"/>
+      <point x="423" y="612"/>
+      <point x="423" y="660" type="curve"/>
+      <point x="423" y="708"/>
+      <point x="386" y="747"/>
+      <point x="327" y="747" type="curve"/>
+      <point x="268" y="747"/>
+      <point x="231" y="708"/>
+      <point x="231" y="660" type="curve"/>
+      <point x="231" y="612"/>
+      <point x="268" y="573"/>
+    </contour>
+    <contour>
+      <point x="327" y="508" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="327" y="721" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-04 19:01:52 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

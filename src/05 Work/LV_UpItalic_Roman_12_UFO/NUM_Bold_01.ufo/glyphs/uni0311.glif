@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0311" format="1">
+  <advance width="356"/>
+  <outline>
+    <contour>
+      <point x="221" y="315" type="curve"/>
+      <point x="291" y="315" type="line"/>
+      <point x="289" y="377"/>
+      <point x="247" y="413"/>
+      <point x="184" y="413" type="curve"/>
+      <point x="122" y="413"/>
+      <point x="79" y="377"/>
+      <point x="77" y="315" type="curve"/>
+      <point x="148" y="315" type="line"/>
+      <point x="154" y="333"/>
+      <point x="164" y="345"/>
+      <point x="184" y="345" type="curve"/>
+      <point x="204" y="345"/>
+      <point x="215" y="333"/>
+    </contour>
+    <contour>
+      <point x="184" y="283" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="184" y="412" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

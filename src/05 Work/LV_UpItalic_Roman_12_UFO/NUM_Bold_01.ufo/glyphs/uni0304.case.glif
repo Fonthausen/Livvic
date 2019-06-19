@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0304.case" format="1">
+  <advance width="342"/>
+  <outline>
+    <contour>
+      <point x="272" y="503" type="line"/>
+      <point x="69" y="503" type="line"/>
+      <point x="69" y="434" type="line"/>
+      <point x="272" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="391" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="170" y="519" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

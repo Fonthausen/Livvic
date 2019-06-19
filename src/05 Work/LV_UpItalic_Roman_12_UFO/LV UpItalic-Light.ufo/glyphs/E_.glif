@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="544"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="162" y="639" type="line"/>
+      <point x="497" y="639" type="line"/>
+      <point x="497" y="710" type="line"/>
+      <point x="81" y="710" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="511" y="71" type="line"/>
+      <point x="162" y="71" type="line"/>
+      <point x="162" y="325" type="line"/>
+      <point x="487" y="325" type="line"/>
+      <point x="487" y="396" type="line"/>
+      <point x="162" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="504" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="289" y="710" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="7" y="710" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 12:43:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

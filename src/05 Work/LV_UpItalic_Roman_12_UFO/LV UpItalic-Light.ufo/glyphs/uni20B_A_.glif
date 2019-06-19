@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20BA" format="1">
+  <advance width="600"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="137" y="710" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="301" y="0"/>
+      <point x="463" y="55"/>
+      <point x="545" y="167" type="curve"/>
+      <point x="499" y="215" type="line"/>
+      <point x="427" y="123"/>
+      <point x="309" y="83"/>
+      <point x="220" y="79" type="curve"/>
+      <point x="220" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="319" type="line"/>
+      <point x="40" y="261" type="line"/>
+      <point x="424" y="461" type="line"/>
+      <point x="424" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="469" type="line"/>
+      <point x="40" y="411" type="line"/>
+      <point x="424" y="611" type="line"/>
+      <point x="424" y="669" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-14 21:01:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

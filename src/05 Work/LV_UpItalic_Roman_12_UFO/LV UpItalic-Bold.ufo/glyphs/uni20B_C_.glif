@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20BC" format="1">
+  <advance width="600"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="300" y="720" type="curve"/>
+      <point x="142" y="722"/>
+      <point x="38" y="607"/>
+      <point x="38" y="433" type="curve"/>
+      <point x="38" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="432" type="line" smooth="yes"/>
+      <point x="192" y="534"/>
+      <point x="239" y="584"/>
+      <point x="300" y="584" type="curve"/>
+      <point x="361" y="584"/>
+      <point x="408" y="545"/>
+      <point x="408" y="432" type="curve"/>
+      <point x="408" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="433" type="line" smooth="yes"/>
+      <point x="562" y="617"/>
+      <point x="458" y="718"/>
+    </contour>
+    <contour>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="830" type="line"/>
+      <point x="250" y="830" type="line"/>
+      <point x="250" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-14 19:50:23 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2215" format="1">
+  <advance width="600"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="357" y="740" type="line"/>
+      <point x="107" y="-200" type="line"/>
+      <point x="244" y="-200" type="line"/>
+      <point x="494" y="740" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-08 16:23:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

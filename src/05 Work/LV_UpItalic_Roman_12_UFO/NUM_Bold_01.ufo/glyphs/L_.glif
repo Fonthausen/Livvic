@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="310"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="31" y="391" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="312" y="99" type="line"/>
+      <point x="152" y="99" type="line"/>
+      <point x="152" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="91" y="214" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="258" y="250" type="move" name="dotacc"/>
+    </contour>
+    <contour>
+      <point x="91" y="391" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="207" y="391" type="move" name="topright"/>
+    </contour>
+  </outline>
+</glyph>

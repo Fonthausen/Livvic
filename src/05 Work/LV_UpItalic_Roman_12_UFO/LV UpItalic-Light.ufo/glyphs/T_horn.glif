@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="607"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="313" y="593" type="curve"/>
+      <point x="145" y="593" type="line"/>
+      <point x="145" y="525" type="line"/>
+      <point x="305" y="525" type="line" smooth="yes"/>
+      <point x="435" y="525"/>
+      <point x="494" y="480"/>
+      <point x="494" y="384" type="curve"/>
+      <point x="494" y="287"/>
+      <point x="437" y="236"/>
+      <point x="291" y="236" type="curve"/>
+      <point x="145" y="236" type="line"/>
+      <point x="145" y="167" type="line"/>
+      <point x="286" y="167" type="line" smooth="yes"/>
+      <point x="484" y="167"/>
+      <point x="576" y="249"/>
+      <point x="576" y="384" type="curve"/>
+      <point x="576" y="520"/>
+      <point x="479" y="593"/>
+    </contour>
+    <contour>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="710" type="line"/>
+      <point x="81" y="711" type="line"/>
+      <point x="81" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 14:05:12 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

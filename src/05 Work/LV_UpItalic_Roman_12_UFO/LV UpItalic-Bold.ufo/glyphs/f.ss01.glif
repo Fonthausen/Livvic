@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.ss01" format="1">
+  <advance width="375"/>
+  <outline>
+    <contour>
+      <point x="88" y="525" type="curve"/>
+      <point x="88" y="0" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="234" y="419" type="line"/>
+      <point x="232" y="487" type="line"/>
+      <point x="232" y="539" type="line" smooth="yes"/>
+      <point x="232" y="598"/>
+      <point x="262" y="627"/>
+      <point x="310" y="627" type="curve"/>
+      <point x="329" y="627"/>
+      <point x="348" y="621"/>
+      <point x="360" y="614" type="curve"/>
+      <point x="422" y="718" type="line"/>
+      <point x="397" y="739"/>
+      <point x="357" y="750"/>
+      <point x="310" y="750" type="curve"/>
+      <point x="182" y="750"/>
+      <point x="88" y="662"/>
+    </contour>
+    <contour>
+      <point x="-7" y="508" type="line"/>
+      <point x="-7" y="387" type="line"/>
+      <point x="372" y="387" type="line"/>
+      <point x="372" y="508" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 14:15:03 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

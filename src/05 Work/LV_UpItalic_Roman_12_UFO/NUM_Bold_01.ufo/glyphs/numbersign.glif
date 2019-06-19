@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="330"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="220" y="391" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="312" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="17" y="174" type="line"/>
+      <point x="-1" y="95" type="line"/>
+      <point x="288" y="95" type="line"/>
+      <point x="306" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="391" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="192" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="295" type="line"/>
+      <point x="24" y="216" type="line"/>
+      <point x="313" y="216" type="line"/>
+      <point x="331" y="295" type="line"/>
+    </contour>
+  </outline>
+</glyph>

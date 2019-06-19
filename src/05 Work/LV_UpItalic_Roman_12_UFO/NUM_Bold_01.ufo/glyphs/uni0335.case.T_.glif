@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0335.case.T" format="1">
+  <advance width="355"/>
+  <outline>
+    <contour>
+      <point x="41" y="262" type="line"/>
+      <point x="41" y="185" type="line"/>
+      <point x="314" y="185" type="line"/>
+      <point x="314" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="223" type="move" name="_stroke"/>
+    </contour>
+  </outline>
+</glyph>

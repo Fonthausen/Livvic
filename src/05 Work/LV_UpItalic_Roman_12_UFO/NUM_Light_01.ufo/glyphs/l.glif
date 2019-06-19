@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="158"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="115" y="-5" type="curve"/>
+      <point x="136" y="-5"/>
+      <point x="156" y="2"/>
+      <point x="168" y="11" type="curve"/>
+      <point x="152" y="55" type="line"/>
+      <point x="146" y="51"/>
+      <point x="137" y="47"/>
+      <point x="127" y="47" type="curve"/>
+      <point x="108" y="47"/>
+      <point x="99" y="59"/>
+      <point x="99" y="79" type="curve"/>
+      <point x="99" y="407" type="line"/>
+      <point x="37" y="407" type="line"/>
+      <point x="37" y="74" type="line" smooth="yes"/>
+      <point x="37" y="24"/>
+      <point x="64" y="-5"/>
+    </contour>
+    <contour>
+      <point x="73" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="68" y="209" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="167" y="232" type="move" name="dotacc"/>
+    </contour>
+    <contour>
+      <point x="68" y="391" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="122" y="407" type="move" name="topright"/>
+    </contour>
+  </outline>
+</glyph>

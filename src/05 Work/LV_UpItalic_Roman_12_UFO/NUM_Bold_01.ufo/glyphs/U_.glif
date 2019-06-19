@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="431"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="400" y="391" type="line"/>
+      <point x="281" y="391" type="line"/>
+      <point x="282" y="183" type="line" smooth="yes"/>
+      <point x="283" y="121"/>
+      <point x="255" y="94"/>
+      <point x="221" y="94" type="curve"/>
+      <point x="180" y="94"/>
+      <point x="150" y="117"/>
+      <point x="150" y="174" type="curve"/>
+      <point x="150" y="391" type="line"/>
+      <point x="30" y="391" type="line"/>
+      <point x="30" y="164" type="line" smooth="yes"/>
+      <point x="30" y="54"/>
+      <point x="98" y="-8"/>
+      <point x="224" y="-6" type="curve"/>
+      <point x="326" y="-4"/>
+      <point x="402" y="71"/>
+      <point x="402" y="175" type="curve"/>
+    </contour>
+    <contour>
+      <point x="215" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="278" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="215" y="391" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="362" y="391" type="move" name="topright"/>
+    </contour>
+  </outline>
+</glyph>

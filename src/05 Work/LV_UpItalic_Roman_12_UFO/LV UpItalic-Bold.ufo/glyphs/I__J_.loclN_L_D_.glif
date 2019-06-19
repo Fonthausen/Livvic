@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I_J.loclNLD" format="1">
+  <advance width="679"/>
+  <outline>
+    <contour>
+      <point x="336" y="-10" type="curve"/>
+      <point x="511" y="-10"/>
+      <point x="614" y="97"/>
+      <point x="614" y="278" type="curve"/>
+      <point x="614" y="710" type="line"/>
+      <point x="458" y="710" type="line"/>
+      <point x="458" y="261" type="line" smooth="yes"/>
+      <point x="458" y="177"/>
+      <point x="412" y="127"/>
+      <point x="336" y="127" type="curve"/>
+      <point x="270" y="127"/>
+      <point x="227" y="150"/>
+      <point x="195" y="212" type="curve"/>
+      <point x="67" y="155" type="line"/>
+      <point x="104" y="46"/>
+      <point x="201" y="-10"/>
+    </contour>
+    <contour>
+      <point x="68" y="710" type="line"/>
+      <point x="68" y="310" type="line"/>
+      <point x="224" y="310" type="line"/>
+      <point x="224" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="710" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="536" y="710" type="move" name="top_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 14:15:25 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>U</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

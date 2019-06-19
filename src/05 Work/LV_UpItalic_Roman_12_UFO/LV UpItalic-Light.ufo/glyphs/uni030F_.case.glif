@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030F.case" format="1">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="292" y="939" type="line"/>
+      <point x="373" y="785" type="line"/>
+      <point x="433" y="785" type="line"/>
+      <point x="368" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="939" type="line"/>
+      <point x="237" y="785" type="line"/>
+      <point x="297" y="785" type="line"/>
+      <point x="232" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="710" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="335" y="961" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-08 16:17:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

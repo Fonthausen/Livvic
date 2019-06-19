@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="487"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="81" y="710" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="494" y="72" type="line"/>
+      <point x="164" y="72" type="line"/>
+      <point x="164" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="123" y="355" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="383" y="401" type="move" name="dotacc"/>
+    </contour>
+    <contour>
+      <point x="123" y="710" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="264" y="710" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 13:27:12 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="421"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="282" y="-41" type="curve"/>
+      <point x="282" y="18"/>
+      <point x="328" y="65"/>
+      <point x="328" y="137" type="curve"/>
+      <point x="328" y="196"/>
+      <point x="285" y="262"/>
+      <point x="156" y="277" type="curve"/>
+      <point x="156" y="265" type="line"/>
+      <point x="285" y="280"/>
+      <point x="328" y="345"/>
+      <point x="328" y="405" type="curve"/>
+      <point x="328" y="477"/>
+      <point x="282" y="524"/>
+      <point x="282" y="583" type="curve"/>
+      <point x="282" y="625"/>
+      <point x="315" y="656"/>
+      <point x="365" y="659" type="curve"/>
+      <point x="348" y="748" type="line"/>
+      <point x="200" y="734"/>
+      <point x="132" y="658"/>
+      <point x="132" y="577" type="curve"/>
+      <point x="132" y="512"/>
+      <point x="178" y="450"/>
+      <point x="178" y="399" type="curve"/>
+      <point x="178" y="351"/>
+      <point x="158" y="319"/>
+      <point x="66" y="319" type="curve"/>
+      <point x="66" y="223" type="line"/>
+      <point x="158" y="223"/>
+      <point x="178" y="191"/>
+      <point x="178" y="143" type="curve"/>
+      <point x="178" y="92"/>
+      <point x="132" y="30"/>
+      <point x="132" y="-35" type="curve"/>
+      <point x="132" y="-116"/>
+      <point x="200" y="-192"/>
+      <point x="348" y="-206" type="curve"/>
+      <point x="365" y="-117" type="line"/>
+      <point x="315" y="-114"/>
+      <point x="282" y="-83"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 15:25:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

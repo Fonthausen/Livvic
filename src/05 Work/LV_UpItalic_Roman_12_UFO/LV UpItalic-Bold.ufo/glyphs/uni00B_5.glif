@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00B5" format="1">
+  <advance width="606"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="546" y="508" type="line"/>
+      <point x="405" y="508" type="line"/>
+      <point x="402" y="209"/>
+      <point x="346" y="126"/>
+      <point x="266" y="126" type="curve"/>
+      <point x="220" y="126"/>
+      <point x="198" y="162"/>
+      <point x="198" y="218" type="curve"/>
+      <point x="200" y="508" type="line"/>
+      <point x="52" y="508" type="line"/>
+      <point x="52" y="-200" type="line"/>
+      <point x="198" y="-200" type="line"/>
+      <point x="189" y="37" type="line"/>
+      <point x="169" y="16" type="line"/>
+      <point x="191" y="-7"/>
+      <point x="217" y="-10"/>
+      <point x="257" y="-10" type="curve"/>
+      <point x="348" y="-10"/>
+      <point x="423" y="76"/>
+      <point x="448" y="236" type="curve"/>
+      <point x="411" y="129" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 14:15:25 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

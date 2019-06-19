@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="1">
+  <advance width="276"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="40" y="397" type="curve"/>
+      <point x="114" y="397" type="line"/>
+      <point x="183" y="466"/>
+      <point x="236" y="574"/>
+      <point x="236" y="644" type="curve"/>
+      <point x="236" y="711"/>
+      <point x="200" y="750"/>
+      <point x="139" y="750" type="curve"/>
+      <point x="81" y="750"/>
+      <point x="42" y="712"/>
+      <point x="42" y="666" type="curve"/>
+      <point x="42" y="610"/>
+      <point x="74" y="585"/>
+      <point x="74" y="525" type="curve"/>
+      <point x="74" y="490"/>
+      <point x="62" y="448"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 20:15:31 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=comma+5</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

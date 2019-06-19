@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0136" format="1">
+  <advance width="340"/>
+  <outline>
+    <component base="K"/>
+    <component base="uni0326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-16 13:50:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

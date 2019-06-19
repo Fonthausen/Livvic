@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni031B" format="1">
+  <advance width="637"/>
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="387" y="507" type="curve"/>
+      <point x="362" y="507"/>
+      <point x="340" y="512"/>
+      <point x="323" y="514" type="curve"/>
+      <point x="353" y="404" type="line"/>
+      <point x="400" y="404" type="line" smooth="yes"/>
+      <point x="515" y="404"/>
+      <point x="593" y="488"/>
+      <point x="588" y="609" type="curve"/>
+      <point x="463" y="619" type="line"/>
+      <point x="461" y="527"/>
+      <point x="443" y="507"/>
+    </contour>
+    <contour>
+      <point x="395" y="508" type="move" name="_topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-09 20:06:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

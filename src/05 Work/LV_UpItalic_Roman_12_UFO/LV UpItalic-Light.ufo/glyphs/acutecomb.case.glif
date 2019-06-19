@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.case" format="1">
+  <advance width="642"/>
+  <note>
+    acutecomb
+  </note>
+  <outline>
+    <contour>
+      <point x="294" y="785" type="line"/>
+      <point x="366" y="785" type="line"/>
+      <point x="492" y="939" type="line"/>
+      <point x="408" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="710" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="335" y="961" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-08 16:17:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

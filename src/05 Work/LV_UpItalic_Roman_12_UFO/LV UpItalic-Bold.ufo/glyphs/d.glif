@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="614"/>
+  <unicode hex="0064"/>
+  <note>
+    d
+  </note>
+  <outline>
+    <contour>
+      <point x="554" y="0" type="line"/>
+      <point x="554" y="740" type="line"/>
+      <point x="408" y="740" type="line"/>
+      <point x="408" y="508" type="line"/>
+      <point x="412" y="418" type="line"/>
+      <point x="441" y="435" type="line"/>
+      <point x="416" y="484"/>
+      <point x="363" y="516"/>
+      <point x="295" y="516" type="curve"/>
+      <point x="149" y="516"/>
+      <point x="35" y="402"/>
+      <point x="35" y="232" type="curve"/>
+      <point x="35" y="92"/>
+      <point x="110" y="-10"/>
+      <point x="247" y="-10" type="curve"/>
+      <point x="349" y="-10"/>
+      <point x="417" y="49"/>
+      <point x="445" y="155" type="curve"/>
+      <point x="417" y="179" type="line"/>
+      <point x="407" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="389" type="curve"/>
+      <point x="369" y="389"/>
+      <point x="408" y="346"/>
+      <point x="408" y="276" type="curve"/>
+      <point x="408" y="182"/>
+      <point x="351" y="117"/>
+      <point x="279" y="117" type="curve"/>
+      <point x="221" y="117"/>
+      <point x="185" y="161"/>
+      <point x="185" y="237" type="curve"/>
+      <point x="185" y="326"/>
+      <point x="232" y="389"/>
+    </contour>
+    <contour>
+      <point x="320" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="304" y="254" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="424" y="628" type="move" name="stroke"/>
+    </contour>
+    <contour>
+      <point x="304" y="740" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="589" y="740" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 12:07:45 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|h</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

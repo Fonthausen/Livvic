@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BB" format="1">
+  <advance width="639"/>
+  <unicode hex="02BB"/>
+  <note>
+    uni02BB
+  </note>
+  <outline>
+    <contour>
+      <point x="377" y="750" type="curve"/>
+      <point x="335" y="750" type="line"/>
+      <point x="296" y="712"/>
+      <point x="277" y="657"/>
+      <point x="277" y="622" type="curve"/>
+      <point x="277" y="588"/>
+      <point x="295" y="568"/>
+      <point x="324" y="568" type="curve"/>
+      <point x="353" y="568"/>
+      <point x="371" y="588"/>
+      <point x="371" y="614" type="curve"/>
+      <point x="371" y="638"/>
+      <point x="356" y="653"/>
+      <point x="356" y="684" type="curve"/>
+      <point x="356" y="703"/>
+      <point x="363" y="726"/>
+    </contour>
+    <contour>
+      <point x="324" y="498" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="324" y="727" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-07 21:59:37 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>
