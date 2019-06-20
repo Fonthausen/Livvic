@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ldot" format="1">
-  <advance width="280"/>
-  <unicode hex="013F"/>
-  <outline>
-    <component base="periodcentered.loclCAT" xOffset="220" yOffset="-3"/>
-    <component base="L"/>
-  </outline>
-</glyph>
