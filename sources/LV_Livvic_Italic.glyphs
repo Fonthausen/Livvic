@@ -1,5 +1,8 @@
 {
 .appVersion = "1230";
+DisplayStrings = (
+"/f_f_l/f_f_j/f_f_i/f_j/zacute"
+);
 classes = (
 {
 automatic = 1;
@@ -72,8 +75,7 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 name = ordn;
 },
 {
-automatic = 1;
-code = "sub f f by f_f;\012sub f i by f_i;\012sub f l by f_l;\012";
+code = "sub f f i by f_f_i;\012sub f f by f_f;\012sub f f j by f_f_j;\012sub f i by f_i;\012sub f f l by f_f_l;\012sub f l by f_l;\012";
 name = liga;
 },
 {
@@ -87,7 +89,7 @@ code = "sub f by f.ss01;\012sub f_f by f_f.ss01;\012";
 name = ss01;
 },
 {
-code = "sub f' i by f.ss01;\012sub f' j by f.ss01;\012sub f_f i by f_f.ss01;\012sub f_f j by f_f.ss01;\012sub f' @ascenders by f.ss01;\012sub f' @i_accents by f.ss01;";
+code = "sub f' i by f.ss01;\012sub f' j by f.ss01;\012sub f' @ascenders by f.ss01;\012sub f' @i_accents by f.ss01;";
 name = calt;
 },
 {
@@ -65897,6 +65899,183 @@ leftKerningGroup = f;
 rightKerningGroup = f;
 },
 {
+glyphname = f_f_i;
+layers = (
+{
+components = (
+{
+name = f;
+},
+{
+name = f_i;
+transform = "{1, 0, 0, 1, 293, 0}";
+}
+);
+layerId = "7F092816-09A2-4631-A7F8-AD4571964C60";
+width = 785;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_i;
+transform = "{1, 0, 0, 1, 319, 0}";
+}
+);
+layerId = "A3B50665-EA37-4AC6-885C-1233CA61B6BD";
+width = 868;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_i;
+transform = "{1, 0, 0, 1, 355, 0}";
+}
+);
+layerId = "014D4A40-7C7F-4023-B30E-1F55CE5EA091";
+width = 986;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_i;
+transform = "{1, 0, 0, 1, 376, 0}";
+}
+);
+layerId = "A0850C2E-74F0-4B2E-AE90-CE9FC07F2CBD";
+width = 1055;
+}
+);
+leftMetricsKey = f;
+rightMetricsKey = i;
+},
+{
+glyphname = f_f_j;
+layers = (
+{
+components = (
+{
+name = f;
+},
+{
+name = f_j;
+transform = "{1, 0, 0, 1, 313, 0}";
+}
+);
+layerId = "7F092816-09A2-4631-A7F8-AD4571964C60";
+width = 865;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_j;
+transform = "{1, 0, 0, 1, 339, 0}";
+}
+);
+layerId = "A3B50665-EA37-4AC6-885C-1233CA61B6BD";
+width = 968;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_j;
+transform = "{1, 0, 0, 1, 375, 0}";
+}
+);
+layerId = "014D4A40-7C7F-4023-B30E-1F55CE5EA091";
+width = 1112;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_j;
+transform = "{1, 0, 0, 1, 396, 0}";
+}
+);
+layerId = "A0850C2E-74F0-4B2E-AE90-CE9FC07F2CBD";
+width = 1197;
+}
+);
+leftMetricsKey = f;
+rightMetricsKey = j;
+},
+{
+glyphname = f_f_l;
+layers = (
+{
+components = (
+{
+name = f;
+},
+{
+name = f_l;
+transform = "{1, 0, 0, 1, 293, 0}";
+}
+);
+layerId = "7F092816-09A2-4631-A7F8-AD4571964C60";
+width = 848;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_l;
+transform = "{1, 0, 0, 1, 319, 0}";
+}
+);
+layerId = "A3B50665-EA37-4AC6-885C-1233CA61B6BD";
+width = 926;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_l;
+transform = "{1, 0, 0, 1, 355, 0}";
+}
+);
+layerId = "014D4A40-7C7F-4023-B30E-1F55CE5EA091";
+width = 1035;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = f_l;
+transform = "{1, 0, 0, 1, 376, 0}";
+}
+);
+layerId = "A0850C2E-74F0-4B2E-AE90-CE9FC07F2CBD";
+width = 1099;
+}
+);
+leftMetricsKey = f;
+rightMetricsKey = l;
+},
+{
 glyphname = f_i;
 lastChange = "2019-05-31 12:22:43 +0000";
 layers = (
@@ -65977,6 +66156,65 @@ width = 679;
 );
 leftKerningGroup = f;
 rightKerningGroup = u;
+},
+{
+glyphname = f_j;
+layers = (
+{
+components = (
+{
+name = f;
+},
+{
+name = j;
+transform = "{1, 0, 0, 1, 338, 0}";
+}
+);
+layerId = "7F092816-09A2-4631-A7F8-AD4571964C60";
+width = 552;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = j;
+transform = "{1, 0, 0, 1, 389, 0}";
+}
+);
+layerId = "A3B50665-EA37-4AC6-885C-1233CA61B6BD";
+width = 629;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = j;
+transform = "{1, 0, 0, 1, 460, 0}";
+}
+);
+layerId = "014D4A40-7C7F-4023-B30E-1F55CE5EA091";
+width = 737;
+},
+{
+components = (
+{
+name = f;
+},
+{
+name = j;
+transform = "{1, 0, 0, 1, 502, 0}";
+}
+);
+layerId = "A0850C2E-74F0-4B2E-AE90-CE9FC07F2CBD";
+width = 801;
+}
+);
+leftMetricsKey = f;
+rightMetricsKey = j;
 },
 {
 glyphname = f_l;
@@ -152966,5 +153204,5 @@ oV = "32";
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
